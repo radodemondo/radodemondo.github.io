@@ -1,0 +1,27 @@
+/**
+ * Theme Name: Monospace/Pax
+ * Original Theme URI: http://vinicius.soylocoporti.org.br/monospace-wordpress-theme
+ * Description: A clean, extra-light, easy, objective, image free and 80 columns monospaced content theme. Made for code, manuals and e-mail publishing. Good for programming blogs, planets and posting by mail.
+ * Author: Vinicius Massuchetto
+ * Author URI: http://vinicius.soylocoporti.org.br
+ * Version: 2
+ * Tags: white, green, fixed-width
+ * License: GNU General Public License v2.0
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ */
+body { 
+ font-family:Monospace; 
+ color:black; 
+}
+a, a:visited {
+ text-decoration:none;
+ color:rgb(17, 170, 34);
+}
+a:hover {
+ color:#FFF;
+ background-color:#5353CB;
+}
+article, #blkcontent {
+text-align:justify;
+width:75%;
+}
