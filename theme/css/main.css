@@ -13,13 +13,9 @@ body {
  font-family:Monospace; 
  color:black; 
 }
-a, a:visited {
+a, a:visited, a:hover {
  text-decoration:none;
- color:rgb(17, 170, 34);
-}
-a:hover {
- color:#FFF;
- background-color:#5353CB;
+ color:#5353CB;
 }
 article, #blkcontent {
 text-align:justify;
