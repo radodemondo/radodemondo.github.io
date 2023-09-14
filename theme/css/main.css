@@ -15,7 +15,7 @@ body {
 }
 a, a:visited, a:hover {
  text-decoration:none;
- color:#5353CB;
+ color:rgb(17, 170, 34);
 }
 article, #blkcontent {
 text-align:justify;
