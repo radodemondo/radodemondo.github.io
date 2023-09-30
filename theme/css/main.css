@@ -1,9 +1,11 @@
 /**
- * Theme Name: Monospace/Pax
+ * Theme Name: Pax
+ * *****************************
+ * Original Theme Name: Monospace
  * Original Theme URI: http://vinicius.soylocoporti.org.br/monospace-wordpress-theme
- * Description: A clean, extra-light, easy, objective, image free and 80 columns monospaced content theme. Made for code, manuals and e-mail publishing. Good for programming blogs, planets and posting by mail.
- * Author: Vinicius Massuchetto
- * Author URI: http://vinicius.soylocoporti.org.br
+ * Original Theme Description: A clean, extra-light, easy, objective, image free and 80 columns monospaced content theme. Made for code, manuals and e-mail publishing. Good for programming blogs, planets and posting by mail.
+ * Original Theme Author: Vinicius Massuchetto
+ * Original Theme Author URI: http://vinicius.soylocoporti.org.br
  * Version: 2
  * Tags: white, green, fixed-width
  * License: GNU General Public License v2.0
@@ -18,6 +20,25 @@ a, a:visited, a:hover {
  color:rgb(17, 170, 34);
 }
 article, #blkcontent {
-text-align:justify;
-width:75%;
+ text-align:justify;
+ width:75%;
+}
+img {
+ object-fit:contain;
+ display:block;
+ float:left;
+ max-width:100%;
+ margin:10px;
+ margin-top:0px;
+ position:relative;
+}
+p {
+ margin-top:5px;
+ padding-top:5px;
+ border-top:5px;
+ max-width:100%;
+ height:100%;
+}
+#h1 {
+ font-size:24pt;
 }
