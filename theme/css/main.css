@@ -2,14 +2,19 @@
  * Theme Name: Pax
  * *****************************
  * Original Theme Name: Monospace
- * Original Theme URI: http://vinicius.soylocoporti.org.br/monospace-wordpress-theme
- * Original Theme Description: A clean, extra-light, easy, objective, image free and 80 columns monospaced content theme. Made for code, manuals and e-mail publishing. Good for programming blogs, planets and posting by mail.
- * Original Theme Author: Vinicius Massuchetto
- * Original Theme Author URI: http://vinicius.soylocoporti.org.br
- * Version: 2
- * Tags: white, green, fixed-width
- * License: GNU General Public License v2.0
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Original Theme Copyright: Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+ * Original Theme URI: https://github.com/getpelican/pelican-themes/tree/master/monospace
+ * Original Theme License: DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE  (Version 2, December 2004)
+ * *****************************
+ * Wordpress Theme Name: Monospace
+ * Wordpress Theme URI: https://wordpress.org/themes/monospace/
+ * Wordpress Theme Description: A clean, extra-light, easy, objective, image free and 80 columns monospaced content theme. Made for code, manuals and e-mail publishing. Good for programming blogs, planets and posting by mail.
+ * Wordpress Theme Author: Vinicius Massuchetto
+ * Wordpress Theme Author URI: http://vinicius.soylocoporti.org.br
+ * Wordpress Theme Version: 2
+ * Wordpress Theme Tags: white, green, fixed-width
+ * Wordpress Theme License: GNU General Public License v2.0
+ * Wordpress Theme License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
 body { 
  font-family:Monospace; 
@@ -17,9 +22,9 @@ body {
 }
 a, a:visited, a:hover {
  text-decoration:none;
- color:rgb(17, 170, 34);
+ color:#11aa22;
 }
-article, #blkcontent {
+#blkcontent {
  text-align:justify;
  width:75%;
 }
