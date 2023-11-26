@@ -52,3 +52,11 @@ tny {
  color:green;
  text-decoration:underline;
 }
+.epigraph {
+ text-align:right;
+ position:relative;
+ right:0px;
+ width:30%;
+ left:70%;
+ font-size:9pt;
+}
