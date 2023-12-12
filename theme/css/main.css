@@ -28,6 +28,7 @@ a, a:visited, a:hover {
 #blkcontent {
  text-align:justify;
  width:75%;
+ font-size:14pt;
 }
 img {
  object-fit:contain;
