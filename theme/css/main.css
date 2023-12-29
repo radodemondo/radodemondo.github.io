@@ -20,6 +20,7 @@
 body { 
  font-family:Monospace; 
  color:black; 
+ font-size:14pt;
 }
 a, a:visited, a:hover {
  text-decoration:none;
